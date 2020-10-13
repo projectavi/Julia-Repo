@@ -10,3 +10,8 @@ UInt64		         64	              0	           2^64 - 1
 Int128	✓	        128	           -2^127         2^127 - 1
 UInt128		         128	            0	           2^128 - 1
 Bool	 N/A	       8	          false (0)	      true (1)
+
+Type	  Precision	Number of bits
+Float16	  half	       16
+Float32	  single	     32
+Float64	  double	     64
